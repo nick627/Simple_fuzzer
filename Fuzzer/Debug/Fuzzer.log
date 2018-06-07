@@ -1,0 +1,5 @@
+﻿  Fuzzer.cpp
+c:\users\nick\downloads\models\2\2_models\project_fuzzer\fuzzer\fuzzer.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nick\downloads\models\2\2_models\project_fuzzer\fuzzer\fuzzer.cpp(470): warning C4101: mode: неиспользованная локальная переменная
+  Fuzzer.vcxproj -> C:\Users\Nick\Downloads\Models\2\2_Models\Project_Fuzzer\Debug\Fuzzer.exe
+  Fuzzer.vcxproj -> C:\Users\Nick\Downloads\Models\2\2_Models\Project_Fuzzer\Debug\Fuzzer.pdb (Partial PDB)

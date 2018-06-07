@@ -1,0 +1,33 @@
+Num Entries: 31
+0: Realtek PCIe GBE Family Controller
+1: Realtek PCIe GBE Family Controller-WFP Native MAC Layer LightWeight Filter-0000
+2: Realtek PCIe GBE Family Controller-VirtualBox NDIS Light-Weight Filter-0000
+3: Realtek PCIe GBE Family Controller-QoS Packet Scheduler-0000
+4: Сетевой адаптер с отладкой ядра (Майкрософт)
+5: Realtek PCIe GBE Family Controller-WFP 802.3 MAC Layer LightWeight Filter-0000
+6: Software Loopback Interface 1
+7: Qualcomm Atheros AR956x Wireless Network Adapter
+8: Qualcomm Atheros AR956x Wireless Network Adapter-WFP Native MAC Layer LightWeight Filter-0000
+9: Qualcomm Atheros AR956x Wireless Network Adapter-Virtual WiFi Filter Driver-0000
+10: Qualcomm Atheros AR956x Wireless Network Adapter-Native WiFi Filter Driver-0000
+11: Qualcomm Atheros AR956x Wireless Network Adapter-VirtualBox NDIS Light-Weight Filter-0000
+12: Qualcomm Atheros AR956x Wireless Network Adapter-QoS Packet Scheduler-0000
+13: Виртуальный адаптер Wi-Fi Direct (Майкрософт)
+14: Qualcomm Atheros AR956x Wireless Network Adapter-WFP 802.3 MAC Layer LightWeight Filter-0000
+15: Виртуальный адаптер размещенной сети (Майкрософт)-WFP Native MAC Layer LightWeight Filter-0000
+16: Виртуальный адаптер размещенной сети (Майкрософт)-Native WiFi Filter Driver-0000
+17: Виртуальный адаптер Wi-Fi Direct (Майкрософт)-WFP Native MAC Layer LightWeight Filter-0000
+18: Виртуальный адаптер размещенной сети (Майкрософт)
+19: Виртуальный адаптер Wi-Fi Direct (Майкрософт)-Native WiFi Filter Driver-0000
+20: Виртуальный адаптер размещенной сети (Майкрософт)-VirtualBox NDIS Light-Weight Filter-0000
+21: Виртуальный адаптер размещенной сети (Майкрософт)-QoS Packet Scheduler-0000
+22: Виртуальный адаптер размещенной сети (Майкрософт)-WFP 802.3 MAC Layer LightWeight Filter-0000
+23: Виртуальный адаптер Wi-Fi Direct (Майкрософт)-VirtualBox NDIS Light-Weight Filter-0000
+24: Виртуальный адаптер Wi-Fi Direct (Майкрософт)-QoS Packet Scheduler-0000
+25: Виртуальный адаптер Wi-Fi Direct (Майкрософт)-WFP 802.3 MAC Layer LightWeight Filter-0000
+26: Адаптер Microsoft ISATAP
+27: Адаптер Microsoft ISATAP #3
+28: Teredo Tunneling Pseudo-Interface
+29: Адаптер Microsoft ISATAP #4
+30: Адаптер Microsoft ISATAP #5
+
