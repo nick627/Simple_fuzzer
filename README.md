@@ -1,6 +1,8 @@
 # Simple_fuzzer
 Fuzzer for config file 
 
+Coverager.cpp - source for PINTool coverager code, used in Fuzzer_with_PinTool
+
 Implemented a program that performs file format fuzzing.
 The implemented program carries out the following actions:
 - Change the original file (one-byte replacement, replacement of several bytes, adding to the file);
